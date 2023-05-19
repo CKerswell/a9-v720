@@ -4,7 +4,7 @@ from netcl_tcp import netcl_tcp
 import time
 import argparse
 from datetime import datetime
-from tqdm.auto import tqdm
+from tqdm import tqdm
 from log import log
 import logging
 
